@@ -149,6 +149,12 @@ The app uses a dark base.
    - Hand-lettered season plates, such as NE2K21 TK, NE2K22 Damen Mustafa and NE2K Big Blue.
    - The older New Era plates were moved aside and credited as **New Era legacy tags** to make space.
 
+**Seasonal themes:** Big Blue gives NE2K and New Era a new theme every year, and only the kangaroos stay the same. The app should build this in:
+- each season has its own theme (colors, art, trophy look) that can be switched without rebuilding the app
+- the kangaroo and Big Blue the mascot stay constant across seasons
+- past seasons keep their themes in the Hall of Kangaroos
+- Claude drafts each new theme from one image or idea Big Blue picks
+
 **Design implication:** NE2K's current identity is purple on black graffiti. The red triangle kangaroo is an alternate logo, and the rainbow plaque is the retro badge. The Hall of Kangaroos should show the legacy tags (2010–2018) and the NE2K Kangaroo plates as two eras.
 
 ## 7. History (partial)
