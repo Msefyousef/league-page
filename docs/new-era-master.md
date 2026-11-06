@@ -87,7 +87,7 @@ No Purge was drawn before the 2026 season, so the live draw on Nov 22 is the fir
 | --- | --- |
 | New Era | Gold and tan (Kangaroo gold for champions) |
 | NFIF | Black and silver crest |
-| NE2K | Red leaping-kangaroo triangle, with the gold rainbow plaque as its retro badge |
+| NE2K | Purple on black graffiti (the current trophy and profile logo). Alternates: the red triangle kangaroo, and the gold rainbow plaque as its retro badge |
 
 The app uses a dark base.
 
@@ -135,6 +135,21 @@ The app uses a dark base.
   - Championship hype art (the Megatron/Transformers "NE2K Championship" piece)
   - Charity posts every Jumu'ah
 - **Trophy:** a silver football on a pillar with the NE2K plaque and a base of engraved plates ("The New Era est. 2010 Champion," plates for 2011–2018), plus a newer plate tower. AI scene photos show it in a jungle guarded by lions and monkeys.
+
+
+**Trophy forms (from Big Blue's video, Nov 6)**
+
+1. **Original New Era trophy:**
+   - A silver football on silver pillars, with a rainbow and tie-dye painted base and the Philly "LOVE" sign on its side.
+   - The gold-on-rainbow NE2K plaque in the middle.
+   - Base plate: "Fantasy Football League CHAMPION – The New Era; est. 2010", with engraved year plates for 2010–2018.
+2. **Current trophy, "The NE2K Kangaroo"** (after the Megatron takeover):
+   - Repainted black with purple graffiti and a purple graffiti NE2K plaque, matching the @ne2kffl profile picture.
+   - A Transformers decal on the side, and "THE NE2K KANGAROO" lettered on the base.
+   - Hand-lettered season plates, such as NE2K21 TK, NE2K22 Damen Mustafa and NE2K Big Blue.
+   - The older New Era plates were moved aside and credited as **New Era legacy tags** to make space.
+
+**Design implication:** NE2K's current identity is purple on black graffiti. The red triangle kangaroo is an alternate logo, and the rainbow plaque is the retro badge. The Hall of Kangaroos should show the legacy tags (2010–2018) and the NE2K Kangaroo plates as two eras.
 
 ## 7. History (partial)
 **New Era champions**
