@@ -81,6 +81,11 @@ No Purge was drawn before the 2026 season, so the live draw on Nov 22 is the fir
 - His rival is the brown Eagles kangaroo, #5 "McNabb."
 - In the app, the mascots wear custom New Era jerseys with no NFL logos. The original art lives in a gallery.
 
+**Permanent logos (they never change):**
+- **New Era is the main logo for the whole app.** A tan kangaroo inside a compass-burst circle with "The New Era Fantasy Football" in bronze. Saved in the repo as `static/brand/new-era-logo-dark.png` (transparent background).
+- **NFIF:** a silver crest with a kangaroo gripping the letters, "No Friends in Fantasy Football League". Saved as `static/brand/nfif-logo-dark.png`, `nfif-logo-light.png` and `nfif-logo-outline.png`.
+- **Everything else, including NE2K and Only Kangaroos, follows that season's theme.**
+
 **League colors**
 
 | League | Colors |
