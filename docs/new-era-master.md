@@ -116,6 +116,26 @@ The app uses a dark base.
 
 **Art workflow:** Big Blue generates mascot art in his image tool using prompts Claude writes. Claude handles cutouts, icons, splash screens, and in-app art built in code.
 
+## 6b. What the @ne2kffl Instagram shows (screenshots, Nov 6)
+- **Bio:** "NE2k | A New Era Fantasy Football League. Home of the Kangaroo, Malukee, & Good Wins." It links to @NewEraFantasy, @nofriendsinfantasy, and a Chuffed campaign (chuffed.org/project/192408…). 465 posts.
+- **Lineage:** New Era came first, and NE2K is the original league. New Era is now the umbrella name for the collection of leagues.
+- **Logos:**
+  - NE2K: purple graffiti profile logo; black geometric kangaroo inside a red triangle ("NE2K Fantasy Football League"); the gold and rainbow NE2K plaque.
+  - Only Kangaroos: red kangaroo over "ONLY KANGAROO'S – Guillotine Fantasy Football League".
+  - NE2K Music: neon logo.
+  - Eid Mubarak art: a kangaroo in a keffiyeh.
+- **Purge look:** black backgrounds with neon LED "Purge masks" (red X eyes; stitched grins in red, green and cyan). Other assets: "The Purge – New Era Event," "TRADE ALERT – PURGE" badges, "A New Era Event: THE PURGE," "Stop the Purge" protest art, and a "30 hours" countdown. A Purge was held on Friday 11/15 in an earlier season.
+- **Recurring content (the app should automate or host these):**
+  - "Mike's Matchup of the Week"
+  - Weekly member video "Matchup" and "Week X Recap" posts
+  - Chalkboard "NE2K22 Transactions – Week X" (trades and FAAB bids)
+  - Trade-deadline countdowns (13 days, 5 days, 24 hours, an 11:59PM alarm clock, an arcade "Trade Deadline Over")
+  - Trade alerts, projected rankings, NE2K report cards (A+ to F, with remarks), "Trading rewards," FAAB minimum-price charts
+  - Rivalry and face-swap memes, Simpsons-style group art, the NE2K23 draft-board wall
+  - Championship hype art (the Megatron/Transformers "NE2K Championship" piece)
+  - Charity posts every Jumu'ah
+- **Trophy:** a silver football on a pillar with the NE2K plaque and a base of engraved plates ("The New Era est. 2010 Champion," plates for 2011–2018), plus a newer plate tower. AI scene photos show it in a jungle guarded by lions and monkeys.
+
 ## 7. History (partial)
 **New Era champions**
 
@@ -133,12 +153,13 @@ The app uses a dark base.
 
 | Year | Champion |
 | --- | --- |
-| 2020 | Khader |
-| 2021 | TK |
-| 2022 | Damen |
+| 2019 | Big Blue (Mohamed Yousef), from the plate (listed under NE2K plates) |
+| 2020 | Khader Mustafa, team "Diggs!!!" |
+| 2021 | Tarik Kanan (TK), team "Don Corleone" |
+| 2022 | Damen Mustafa, team "Dame Time" |
 | Probably 2023 | Ehmed |
 
-**Missing:** 2017–2019 and 2024–2025. Ask Big Blue.
+**Missing:** 2017–2018 and 2024–2025, plus Ehmed's year. Ask Big Blue.
 
 ## 8. Features
 **Phase 1 (2–3 weeks; the Purge drum is built first)**
@@ -257,5 +278,7 @@ WhatsApp itself can't be automated (its API has no group access), so the app rep
 - Find or create the Yahoo developer key. Put it in Vercel as `YAHOO_CLIENT_ID` and `YAHOO_CLIENT_SECRET`, never in chat.
 - Send trophy and Purge-mask photos, Instagram handles, the missing champions, and the fundraiser links.
 - Optional: set up a separate desktop user with Claude so Claude can browse Instagram with him.
+
+**Purge page:** the first version is built (`static/purge/index.html` on `new-era`, with a private preview artifact). The result comes from drand quicknet round 31,071,780 (11:00:00am ET on Nov 22). Waiting on the ball odds and the DNS fix. Next: restyle it with the neon stitched-mask look from the Instagram.
 
 **Claude next:** build the Purge drum on `new-era` and send a preview link, then the New Era home and Tank Watch.
